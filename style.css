@@ -1,0 +1,31 @@
+body{
+  text-align:center;
+  background:#FFCDD2 ;
+  background-repeat:no-repeat;
+}
+h1{
+  color:#311B92;
+  font-variant:small-caps;
+  font-size:50px;
+
+}
+img{
+  width:40%;
+  border-radius:0;
+ }
+h2{
+  font-size:35px;
+  color:#311B92;
+}
+h3{
+  font-size:35px;
+  color:#311B92;
+}
+h4{
+  font-size:35px;
+  color:#311B92
+}
+p{
+  font-size:20px;
+  font-weight:bold;
+}
